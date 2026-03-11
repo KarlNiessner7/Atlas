@@ -1,0 +1,16 @@
+h1, h2 {
+  color: blue; }
+p {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif }
+ul {
+  border: 2px solid orange; }
+ol {
+  border: 2px solid skyblue; }
+ol, ul {
+  padding: 14px 20px;
+  border-radius: 6px; }
+h1, strong {
+  color: blue; }
+em {
+  color: black; }
