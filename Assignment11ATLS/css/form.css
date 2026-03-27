@@ -40,6 +40,6 @@ input[type="radio"] {
 select:focus, select:active, input:focus, input:active, input:focus + label,
 input:active + label, label[for]:focus, label[for]:active {
 color: rgb(255, 255, 255) !important;
-background-color: rgb(184, 33, 33) !important;}
+background-color: rgb(27, 61, 173) !important;}
 /* end of form css */
 	
