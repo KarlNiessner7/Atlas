@@ -26,5 +26,9 @@ label {
 #formcol1 li{
     list-style:none;
 }
+
+input[type="radio"] {
+    margin: 0;
+}
 /* end of form css */
 	
